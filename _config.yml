@@ -53,13 +53,11 @@ round-avatar: true
 #   Steam: Artemis_
 #   Instagram: GLORIAAA_0312
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  Bilibili: 夕夕不是西溪希
+  NetEaseCloudMusic: 駝雲十二_
+  Email: "3584316569@qq.com"
+  Steam: Artemis_
+  Instagram: GLORIAAA_0312
   
 
 # If you want your website to generate an RSS feed, provide a description
