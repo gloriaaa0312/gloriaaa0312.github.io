@@ -10,8 +10,8 @@
 ############################
 
 # Name of website
-title: Hinc itur ad astra.
-description: 此处通往星辰
+# title: Hinc itur ad astra.
+title: test
 
 # Your name to show in the footer
 author: 倚云
@@ -22,6 +22,7 @@ author: 倚云
 
 navbar-links:
   About Me: "DASE | BASS | 游戏 | 剧本杀 | COCTRPG | 写作"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -58,6 +59,7 @@ social-network-links:
   Email: "3584316569@qq.com"
   Steam: Artemis_
   Instagram: GLORIAAA_0312
+  rss: true
   
 
 # If you want your website to generate an RSS feed, provide a description
